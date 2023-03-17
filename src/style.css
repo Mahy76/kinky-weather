@@ -39,11 +39,11 @@ li {
   height: 64px;
   width: 64px;
 }
-#strong {
+#temperature {
   line-height: 1;
   color: black;
   font-weight: 400;
-  font-size: 64px;
+  font-size: 70px;
 }
 #small {
   position: relative;
